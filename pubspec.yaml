@@ -1,7 +1,7 @@
 name: m3_color_scheme
 description: "A new Flutter package project."
 version: 0.0.1
-repository: https://github.com/GoogleChrome/material-color-utilities
+repository: https://github.com/synkbyte/m3_color_scheme
 
 environment:
   sdk: ^3.8.1
