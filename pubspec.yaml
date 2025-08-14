@@ -1,0 +1,20 @@
+name: m3_color_scheme
+description: "A new Flutter package project."
+version: 0.0.1
+repository: https://github.com/GoogleChrome/material-color-utilities
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_color_utilities: ^0.11.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
