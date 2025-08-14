@@ -1,5 +1,5 @@
 name: m3_color_scheme
-description: "A new Flutter package project."
+description: "A utility package for generating Material 3 (M3) color schemes in Flutter apps."
 version: 0.0.1
 repository: https://github.com/synkbyte/m3_color_scheme
 
